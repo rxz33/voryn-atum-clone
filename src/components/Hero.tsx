@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="relative overflow-hidden group">
           <img
             src={heroImage}
-            alt="Voryn Works Video Poster"
+            alt="Atum Works Video Poster"
             className="aspect-video object-cover group-hover:scale-105 transition-transform duration-300"
           />
 

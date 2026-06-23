@@ -1,12 +1,12 @@
 export const siteData = {
-  company: "VORYN WORKS",
+  company: "ATUM WORKS",
 
   industry: "GIGASCALE MANUFACTURING",
 
   location: "MOUNTAIN VIEW, CA",
 
   description: [
-    "Voryn Works is building the world's first scalable 3D lithography foundry.",
+    "Atum Works is building the world's first scalable 3D lithography foundry.",
 
     "Our technology can print arbitrary 3D metal structures with submicron resolution.",
   ],

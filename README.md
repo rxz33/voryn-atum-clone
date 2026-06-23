@@ -1,4 +1,4 @@
-# Voryn Works – Static Site Clone
+# Atum Works – Static Site Clone
 
 A minimal React + TypeScript + Vite project that replicates the static landing page of https://atum.works. The codebase is a clean, copyright‑free rewrite with custom theme variables, a simple hero component, and Tailwind CSS styling.
 
