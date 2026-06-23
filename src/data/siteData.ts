@@ -1,7 +1,7 @@
 export const siteData = {
   company: "ATUM WORKS",
 
-  industry: "GIGASCALE MANUFACTURING",
+  industry: "ATUM WORKS",
 
   location: "MOUNTAIN VIEW, CA",
 

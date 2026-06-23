@@ -67,7 +67,7 @@ export default function Hero() {
         </div>
 
         <a
-          href="https://www.linkedin.com/company/voryn-works/jobs"
+          // href="https://www.linkedin.com/company/voryn-works/jobs"
           target="_blank"
           rel="noopener noreferrer"
           className="group w-fit flex items-center justify-center gap-2 mt-6"

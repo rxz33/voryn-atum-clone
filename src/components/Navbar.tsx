@@ -27,11 +27,11 @@ export default function Navbar() {
         style={{ willChange: "opacity", opacity: 1 }}
         className="flex-1 text-center lg:text-right"
       >
-        <a href="mailto:founders@vorynworks.com">
+        {/* <a href="mailto:founders@vorynworks.com"> */}
           <div className="text-[14px] lg:text-[14px] leading-[1] tracking-[-0.01em] text-pretty uppercase hover:underline underline-offset-4">
             Get In Touch
           </div>
-        </a>
+        {/* </a> */}
       </div>
     </div>
   )
